@@ -6,4 +6,4 @@
 # Assumptions
 - The maximum length of a text line is 80 characters.
 - Data files are valid and not empty.
-- If invalid file is entered, program restarts and prompts user for a valid filename.
+- If an invalid file is entered, program restarts and prompts user for a valid filename.
